@@ -8,9 +8,9 @@ make.fun is a bounty board for people who build software together with an AI cod
 
 This guide walks you from zero to your first submitted entry. It should take an evening, most of it waiting on your agent.
 
-> **Signing up? Use my link:** [https://make.fun/r/xdafnq49](https://make.fun/r/xdafnq49)
+> **Signing up? Use my link:** [https://make.fun/r/g0jgghrd](https://make.fun/r/g0jgghrd)
 >
-> Referral code: `xdafnq49`
+> Referral code: `g0jgghrd`
 
 ## What you will find here
 
@@ -41,7 +41,7 @@ A bounty is a small, well-specified software job with a prize attached. The rewa
 
 ## Step 1 — Make your account
 
-1. Open [my referral link](https://make.fun/r/xdafnq49) and click **Sign in** at the top right. (The code is `xdafnq49`.)
+1. Open [my referral link](https://make.fun/r/g0jgghrd) and click **Sign in** at the top right. (The code is `g0jgghrd`.)
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction.
 3. Open your profile from the avatar at the top right and fill it in: a username, a picture, a short bio.
 4. If you signed in without GitHub, link your GitHub account and your Solana wallet from your profile as well. Entries come from your GitHub repositories; rewards go to your wallet.
@@ -152,7 +152,7 @@ Every bounty publishes its scoring. Most are graded by running each entry the sa
 
 Every account gets a referral link shaped like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. A referral sticks to the code a visitor's browser saw first, and that first touch wins for 60 days — a later link does not replace it. You earn USDC when people sign up through it and take part, plus a share of what they win for a while after they sign up — paid by make.fun on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count — your own account, your own network, bots, and idle accounts never do.
 
-If this guide helped, signing up through [my link](https://make.fun/r/xdafnq49) (code `xdafnq49`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/g0jgghrd) (code `g0jgghrd`) is a nice way to say thanks — it costs you nothing extra.
 
 ## Mistakes that get entries rejected
 
@@ -216,4 +216,4 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/xdafnq49 · code `xdafnq49`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/g0jgghrd · code `g0jgghrd`</sub>
